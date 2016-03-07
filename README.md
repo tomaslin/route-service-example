@@ -1,6 +1,6 @@
 # Cloud Foundry Route Service Example
 
-This project is an example of a [Cloud Foundry Route Service][r] written with Spring Boot[b].  This application does the following to each request:
+This project is an example of a [Cloud Foundry Route Service][r] written with [Spring Boot][b].  This application does the following to each request:
 
 1. Intercepts an incoming request
 2. Logs information about that incoming request
